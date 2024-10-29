@@ -1,4 +1,4 @@
-# Student Loan Recommendation System
+# Student Loan refinancing.
 
 This project aims to develop a machine learning-based recommendation system to help students find suitable loan options based on their academic, financial, and personal profiles. By analyzing various data, including academic performance, family income, health considerations, and financial background, the system generates personalized loan recommendations to support students in continuing their education without financial strain.
 
